@@ -5,4 +5,4 @@ Firstly click to profile then select repo click new and create new rapo.
 <br>
 Author : Kashish Gokhe
 <br>
-Github is in thw website and Git is in our System (laptop,computer)
+Github is in the website and Git is in our System (laptop,computer)
